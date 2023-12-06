@@ -1,0 +1,15 @@
+.mb-2{
+    width: 200px;
+}
+h2{
+font-family:'Comic Sans','Courier New', Courier, monospace;
+}
+
+.darkcolor{
+    background-color: rgb(22, 13, 83) !important;
+}
+
+.textcolor{
+    --bs-text-opacity: 1;
+    color:rgb(22, 13, 83) !important ;
+}
